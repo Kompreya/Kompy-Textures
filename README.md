@@ -11,12 +11,12 @@ License: [CC-BY 4.0 License](https://creativecommons.org/licenses/by/4.0/)
 
 ![Sample](Samples.png)
 
-If you like my work, consider buying me a coffee. 
+If you like my work, consider buying me a coffee.   
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V41I86K)
 
-All work I do is 100% volunteer.
-I do not take commissions, sorry (way too busy with other projects!)
-Ex-lead-dev of Tradewinds. Current dev of Rebirth of the Night.
+All work I do is 100% volunteer.  
+I do not take commissions, sorry (way too busy with other projects!)  
+Ex-lead-dev of Tradewinds. Current dev of Rebirth of the Night.  
 
 to-do: 
 Upload my upscale script =3
