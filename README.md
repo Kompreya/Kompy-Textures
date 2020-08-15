@@ -18,8 +18,8 @@ All work I do is 100% volunteer.
 I do not take commissions, sorry (way too busy with other projects!)  
 Ex-lead-dev of Tradewinds. Current dev of Rebirth of the Night.  
 
-to-do: 
-Upload my upscale script =3
-Upload old model files
-Upload old GUI textures
+to-do:   
+Upload my upscale script =3  
+Upload old model files  
+Upload old GUI textures  
 Upload PSDs and Aseprites
